@@ -1,5 +1,4 @@
-
-![Nozona_banner](https://user-images.githubusercontent.com/68153258/198078175-8018af07-80ca-42aa-97cf-5c133f0219b0.png)
+![Nozona](https://user-images.githubusercontent.com/68153258/198079420-577221da-764c-4ce8-ac0d-9b535fc35e8a.png)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

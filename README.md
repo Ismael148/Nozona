@@ -1,6 +1,5 @@
 
-![Nozona](https://drive.google.com/file/d/1eK_DXJG6YX4WAazstkFadNc8j2lLZ0Ux/view?usp=sharing)
-
+![Nozona_banner](https://user-images.githubusercontent.com/68153258/198078175-8018af07-80ca-42aa-97cf-5c133f0219b0.png)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
